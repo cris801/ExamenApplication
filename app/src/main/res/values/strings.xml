@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExamenApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="stgElaborado">Elaborado por:</string>
+    <string name="stgGrupo">Grupo:</string>
+    <string name="stgPBC">Peña Barrios Cristian</string>
+    <string name="stgGrupo4951">4951</string>
+</resources>
